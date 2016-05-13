@@ -1,9 +1,12 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Samuel Sandoval, an Entrepreneur from Rochester, New York.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Samuel? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Samuel](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "What do you want to know about me? \n"About"\n"Careers"\n"Hobby""",
+    "HELLO": "What do you want to know about me? \n"Life" \n"Careers" \n"Hobbies" ",
     "NOTINUSE": "Hey, I'm so glad you set Samuel Sandoval Bot up! Do you want to tell Samuel that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HER": "Let's tweet @ Samuel so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
+    "LIFE": "I live in Rochester NY with my beautiful wife. We have a fur-daughter, she's a purebred schanzuer... and her name is Maggie!",
+    "CAREERS": "Right now, I'm a software engineer at Harris Corporations, teacher at RIT, and tech support for Convo Communications.",
+    "HOBBIES": "I'm a professional photographer but I am always learning...! I also like to fly my quadcopter in an empty park.",
     "DISCONNECT": "Roger that, Samuel Sandoval Bot is back."
 }
